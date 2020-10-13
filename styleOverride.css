@@ -1,3 +1,4 @@
+@media screen and (min-width:1000px){
 .footer {
     position: absolute;
     bottom: 0;
@@ -5,4 +6,5 @@
     height: 60px;
     line-height: 60px;
     background-color: #f5f5f5;
+}
 }
